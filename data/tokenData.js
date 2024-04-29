@@ -13,6 +13,7 @@ tokenCollection.set('usdt', {
     abi: tokenAbi
 });
 
+// xaut doesn't work for some reason
 tokenCollection.set('xaut', {
     address: '0x68749665FF8D2d112Fa859AA293F07A622782F38',
     abi: tokenAbi
